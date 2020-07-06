@@ -1,0 +1,8 @@
+log/
+target/
+**/classes/**
+.classpath
+.project
+.settings
+/target/
+cctv_network.iml
